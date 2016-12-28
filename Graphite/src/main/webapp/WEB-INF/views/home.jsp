@@ -6,9 +6,9 @@
 </head>
 <body>
 <h1>
-	Hello world!  
+	Hi ES wanna be  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The index search result is ${isExist}. </P>
 </body>
 </html>
